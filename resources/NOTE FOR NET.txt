@@ -1,1 +1,0 @@
-This is compiled it is for you to decompile! I have no clue how to use Player and Render API without 1000 errors, so I will need help.
